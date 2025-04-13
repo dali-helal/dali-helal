@@ -1,52 +1,72 @@
-<h1 align="center">Hi 👋, I'm Mohamed Ali Ben Helal</h1>
-<h3 align="center">Web Developer | Full Stack Engineer | React.js | Express | Spring Boot | .NET | Docker</h3>
+# 🚀 **Full-Stack Developer**  
+### **React | Node.js | Spring Boot | .NET | SQL & NoSQL**  
+
+Hi there! 👋 I'm a passionate **Full-Stack Developer** specializing in **React.js** for dynamic frontends and **Express.js, Spring Boot, and .NET** for robust backends. I love building scalable web applications with modern architectures.  
 
 ---
 
-🌟 Passionate full stack web developer with experience in building modern and responsive applications using:
+## **🛠 Tech Stack**  
 
-- **Frontend**: React.js (with hooks, context, Redux, Vite)
-- **Backend**: Express.js, Spring Boot, .NET Core
-- **Databases**: SQL Server, MongoDB
-- **DevOps**: Docker, Git, CI/CD
-- **Other**: REST APIs, JWT Auth, WebSockets, Socket.IO
+### **Frontend**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+
+### **Backend**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### **Databases**  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+### **DevOps & Tools**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
 
-### 🚀 Technologies & Tools
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
-![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=for-the-badge)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge)
-![.NET](https://img.shields.io/badge/-DotNet-512BD4?logo=dotnet&logoColor=white&style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+## **💼 Featured Projects**  
+
+### **1. E-Commerce Platform (React + Spring Boot)**  
+📌 A full-stack e-commerce app with JWT auth, product management, and payment integration.  
+🔹 **Tech:** React, Redux, Spring Boot, MongoDB, Docker  
+🔗 [Live Demo](#) | [GitHub](#)  
+
+### **2. Task Management API (.NET Core + SQL Server)**  
+📌 A RESTful API for task management with role-based access control.  
+🔹 **Tech:** .NET Core, Entity Framework, SQL Server, JWT  
+🔗 [GitHub](#)  
+
+### **3. Real-Time Chat App (Node.js + Socket.io)**  
+📌 A real-time messaging app with WebSocket support.  
+🔹 **Tech:** Express.js, Socket.io, MongoDB, React  
+🔗 [Live Demo](#) | [GitHub](#)  
 
 ---
 
-### 📊 GitHub Stats
+## **📬 Get in Touch**  
+Let's collaborate! I'm open to **freelance work**, **open-source contributions**, and **tech discussions**.  
+
+📧 **Email:** [your.email@example.com](mailto:your.email@example.com)  
+🔗 **LinkedIn:** [Your Profile](#)  
+🐱 **GitHub:** [@yourusername](#)  
+🌐 **Portfolio:** [yourwebsite.com](#)  
+
+---
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=github_dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=github-dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+  <a href="https://github.com/yourusername?tab=followers">
+    <img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=social" alt="GitHub Followers" />
+  </a>
 </p>
 
----
-
-### 📂 Featured Projects
-- 💬 **Real-Time Chat App** (React + Express + Socket.IO)
-- 📊 **Finance Dashboard** (React + Spring Boot + MongoDB)
-- 🔐 **Secure Auth System** (React + .NET + JWT + Docker)
-
-> Check out my pinned repos for more!
-
----
-
-### 📫 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Portfolio](https://your-portfolio-link.com)
-- [Email](mailto:your.email@example.com)
-
----
-
-⭐️ Don’t forget to **star** your favorite projects and follow for more cool stuff!
-
+<p align="center">
+  <i>⚡ "First, solve the problem. Then, write the code." – John Johnson</i>
+</p>
